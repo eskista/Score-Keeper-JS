@@ -1,1 +1,1 @@
-# Simple-Score-Keeper-JS
+# Score-Keeper-JS
